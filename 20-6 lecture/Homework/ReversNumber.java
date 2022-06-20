@@ -1,6 +1,4 @@
-package SwitchX;
-
-public class ReversNumber {
+class ReversNumber {
 
 	public static void main(String[] args) 
 	 {
