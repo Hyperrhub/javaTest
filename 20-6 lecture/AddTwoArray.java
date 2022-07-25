@@ -1,4 +1,9 @@
-class AddTwoArray {
+/*
+ *@ Author Akshay More
+ */
+package SwitchX;
+
+public class AddTwoArray {
 
 	public static void main(String[] args) {
 		

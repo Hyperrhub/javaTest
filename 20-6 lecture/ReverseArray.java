@@ -1,4 +1,9 @@
-class ReverseArray {
+/*
+ * @ Author Akshay More
+ */
+package SwitchX;
+
+public class ReverseArray {
 
 	public static void main(String[] args) {
 

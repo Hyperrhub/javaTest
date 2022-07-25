@@ -1,4 +1,9 @@
-class DuplicateArray {
+/*
+ * @ Author Akshay More
+ */
+package SwitchX;
+
+public class DuplicateArray {
 
 	public static void main(String[] args) {
 

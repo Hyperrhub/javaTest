@@ -1,6 +1,9 @@
-
+/*
+ * @ Author Akshay More
+ */
+package SwitchX;
 import java.util.Scanner;
-class ScannerTwoDArray {
+public class ScannerTwoDArray {
 
 	public static void main(String[] args) {
 

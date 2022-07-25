@@ -1,6 +1,9 @@
-
+/*
+ * @ Author Akshay More
+ */
+package SwitchX;
 import java.util.Scanner;
-class Sc {
+public class Sc {
 
 	public static void main(String[] args){
 

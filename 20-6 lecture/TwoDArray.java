@@ -1,4 +1,10 @@
-class TwoDArray {
+/*
+ * @ Author Akshay More
+ */
+
+package SwitchX;
+
+public class TwoDArray {
 
 	public static void main(String[] args) {
 		//Declaring variable
