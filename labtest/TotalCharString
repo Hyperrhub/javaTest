@@ -1,0 +1,11 @@
+package practical;
+
+public class TotalCharString {
+
+	public static void main(String[] args) {
+		String txt = "efnkaeiejnfano";
+	    System.out.println(txt.length());
+
+	}
+
+}
